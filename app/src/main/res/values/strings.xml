@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Permission</string>
+    <string name="btn_web">Web</string>
+    <string name="btn_call_phone">Call</string>
+    <string name="btn_web_back">Back</string>
+    <string name="btn_web_go">Go</string>
+</resources>
