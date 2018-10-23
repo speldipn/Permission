@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
   }
 
   private void queryPerm() {
-    String perms[] = {Manifest.permission.INTERNET, Manifest.permission.CALL_PHONE};
+    String perms[] = {Manifest.permission.CALL_PHONE};
     int i = 0;
 
     if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
